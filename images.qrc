@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/backgrounds" lang="img1">
+        <file alias="img1">img/img1.jpg</file>
+    </qresource>
+</RCC>
